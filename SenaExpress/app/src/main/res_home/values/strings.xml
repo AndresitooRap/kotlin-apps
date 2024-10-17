@@ -1,0 +1,25 @@
+<resources>
+    //Start
+    <string name="Start1">EDUCATIONAL QUALITY</string>
+    <string name="StartBody1">SENA is a recognized educational institution in many countries, and its training programs in the food sector are usually very complete and specialized. Students receive a quality education that covers both theoretical and practical aspects related to food production.</string>
+    <string name="Start2">INNOVATION AND CREATIVITY</string>
+    <string name="StartBody2">SENA students often have the opportunity to develop innovative and creative skills during their training. This can lead to the creation of unique and original food products, which offer different and attractive options in the market.</string>
+    <string name="Start3">ACCESSIBLE PRICES</string>
+    <string name="StartBody3">The products made by SENA students usually have competitive and accessible prices. This is partly because, as part of their training, students are able to offer their products at prices lower than those established in the traditional commercial market. This can be beneficial for both consumers and the students themselves, as it allows them to gain experience and promote their skills.</string>
+    <string name="Start4">ENTREPRENEURSHIP FORM</string>
+    <string name="StartBody4">SENA has a focus on the development of entrepreneurial skills in its students. This means that the food products made by the students can be seen as the beginning of a path towards the creation of their own businesses in the future. By supporting and purchasing these products, you are supporting the entrepreneurial spirit of students and their professional development.</string>
+
+    <string name="Our_Recommendations">Our Recommendations</string>
+    <string name="AGRICULTURAL_BIOTECHNOLOGY_CENTER_SENA">AGRICULTURAL BIOTECHNOLOGY CENTER - SENA ©</string>
+    <string name="Phone">Phone: </string>
+    <string name="Attention_schedule">Attention schedule: </string>
+    <string name="Monday_Saturday">Monday to Friday from 7:00 a.m. to 5:00 p.m. (Continuous day) (We DON\'T have service on Saturdays)</string>
+
+    //SocialMedia
+    <string name="Facebook">https://www.facebook.com/SENAMosqueraOficial/</string>
+    <string name="Instagram">https://www.instagram.com/senacomunica/?hl=es-la</string>
+    <string name="TikTok">https://www.tiktok.com/@senacomunica_</string>
+    <string name="Twitter">https://twitter.com/SENAComunica</string>
+    <string name="Youtube">https://www.youtube.com/@SENAComunica</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //lacteos1
+    <string name="leche_de_cabra">Leche</string>
+    <string name="Leche_cabra_origen">Cabra</string>
+    <string name="leche_cabra_descripción">La leche de cabra es el subproducto de la operación de ordeñe que se hace los mamíferos del género Capra.</string>
+
+    //lacteos2
+    <string name="Leche_de_vaca">Leche</string>
+    <string name="Leche_de_vaca_origen">Vaca</string>
+    <string name="Leche_de_vaca_descripcion">La leche de vaca proporciona proteínas de alta calidad, calcio, magnesio, vitaminas liposolubles y aminoácidos esenciales que el organismo.</string>
+
+    //lacteos3
+    <string name="Leche_condensada">Condensada</string>
+    <string name="Leche_condensada_origen">SENA</string>
+    <string name="Leche_condensada_descripcion">La leche condensada es leche de vaca a la que se le ha extraído agua y agregado azúcar.</string>
+
+    //lacteos4
+    <string name="mantequilla">Mantequilla</string>
+    <string name="Mantequilla_origen">SENA</string>
+    <string name="mantequilla_descripcion">La mantequilla es una emulsión más o menos sólida considerada apta para consumo humano.</string>
+
+    //lacteos5
+    <string name="queso">Queso</string>
+    <string name="Queso_Origen">SENA</string>
+    <string name="queso_descripción">El queso es un alimento sólido que se obtiene por maduración de la cuajada de la leche animal una vez eliminado el suero.</string>
+
+    //lacteos6
+    <string name="yogurt">Yogurt Griego</string>
+    <string name="Yogurt_origen">SENA</string>
+    <string name="yogurt_descripcion">De forma general el yogur contiene proteínas muy útiles para el ser humano y con una mayor digestibilidad que la leche.</string>
+
+    //lacteos7
+    <string name="yogurt_de_cabra">Yogurt</string>
+    <string name="yogurt_de_cabra_origen">Cabra</string>
+    <string name="yogurt_de_cabra_descripcion">Se debe a que contiene mayor cantidad de vitaminas y minerales en porciones desde 200 ml.</string>
+
+</resources>

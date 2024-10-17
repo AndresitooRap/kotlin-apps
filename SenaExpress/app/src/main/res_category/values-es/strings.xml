@@ -1,0 +1,68 @@
+<resources>
+    //dairy
+    <string name="Dairy">Lacteos</string>
+    <string name="Milk">Leche</string>
+    <string name="Milk_About">La leche es una secreción nutritiva blanquecina producida por las células secretoras de las glándulas mamarias de los mamíferos.</string>
+    <string name="Cheese_About">El queso es un alimento sólido que se obtiene madurando la cuajada de la leche animal una vez eliminado el suero.</string>
+    <string name="Cheese">Queso</string>
+    <string name="Yogurt_Griego_About">El yogur, también conocido como yogur, yogur, yogur, yogurt, yogurt, es un producto lácteo obtenido por fermentación.</string>
+    <string name="Yogurt_Griego">Yogurt Griego</string>
+    <string name="Kummis_About">Kumis es un producto lácteo fermentado, ácido alcohólico.</string>
+    <string name="Kummis">Kummis</string>
+    <string name="Yogurt_About">El yogur, también conocido como yogur, yogur, yogur, yogur, yogur, es un producto lácteo obtenido por fermentación.</string>
+    <string name="Yogurt">Yogurt</string>
+
+    //Vegetables
+    <string name="Vegetables">Vegetables</string>
+    <string name="Carrots">Zanahorias</string>
+    <string name="Carrots_About">Daucus carota sativus, popularmente llamada zanahoria, es la forma domesticada de la zanahoria silvestre.</string>
+    <string name="Onion">Cebolla</string>
+    <string name="Onion_About">Allium cepa, comúnmente conocida como cebolla, es una planta herbácea bienal perteneciente a la familia Amaryllidaceae.</string>
+    <string name="Garlic">Ajo</string>
+    <string name="Garlic_About">El ajo tiene entre sus propiedades medicinales naturales la particularidad de combatir las infecciones respiratorias.</string>
+    <string name="Lettuce">Lechuga</string>
+    <string name="Lettuce_About">La lechuga es una planta anual de la familia Asteraceae. Se cultiva principalmente como verdura de hoja.</string>
+    <string name="Bean">Habichuelas</string>
+    <string name="Bean_About">Las Habichuelas son una rica fuente de vitamina C, vitamina K, vitamina A (contienen betacaroteno) y riboflavina (vitamina B2).</string>
+
+    //Fruits
+    <string name="Fruits">Fruits</string>
+    <string name="Strawberry">Fresa</string>
+    <string name="Strawberry_About">El fresón o fresón es un género de plantas rastreras estoloníferas de la familia de las Rosáceas. Agrupa unos 400 taxones descritos.</string>
+    <string name="Blackberry">Mora</string>
+    <string name="Blackberry_About">Botánicamente, la mora es una fruta polidrupa, es decir, está formada por pequeñas drupas dispuestas en racimo.</string>
+    <string name="Tangerine">Mandarina</string>
+    <string name="Tangerine_About">La mandarina es el fruto de las diferentes especies de cítricos comúnmente llamadas mandarinas, entre ellas Citrus reticulata.</string>
+    <string name="Apple">Manzana</string>
+    <string name="Apple_About">La manzana o poma es el fruto comestible de la especie Malus domestica, el manzano común.</string>
+    <string name="Banana">Banano</string>
+    <string name="Banana_About">El banano, también conocido como guineo, llantén, plátano maduro, guineo, cambur o gualele, es un fruto comestible de varios tipos.</string>
+
+    //Flowers
+    <string name="Flowers">Flowers</string>
+    <string name="Astromelia">Astromelia</string>
+    <string name="Astromelia_About">Astromelia, generalmente llamada "astromelia", es un género de América del Sur con alrededor de 120 especies.</string>
+    <string name="Orchids">Orquidea</string>
+    <string name="Orchids_About">Las orquídeas u orquídeas son una familia de plantas monocotiledóneas que se distinguen por la complejidad de sus flores.</string>
+    <string name="Tulipa">Tulipan</string>
+    <string name="Tulipa_About">Tulipan es un género de plantas perennes y bulbosas perteneciente a la familia de las liliáceas, que incluye a los populares tulipanes.</string>
+    <string name="Cattleya">Cattleya</string>
+    <string name="Cattleya_About">La flor de mayo o lirio de mayo (Cattleya trianae) pertenece a la familia de las orquídeas, originaria de Colombia.</string>
+    <string name="Sunflower">Girasol</string>
+    <string name="Sunflower_About">Helianthus annuus, también comúnmente llamado girasol, es una planta herbácea anual de las Asteraceae.</string>
+
+    //Animals
+    <string name="Animals">Animals</string>
+    <string name="EggsA">HuevosA</string>
+    <string name="EggsA_About">Los huevos son un alimento común en la dieta humana. Se presentan protegidos por una concha y son ricos en proteínas.</string>
+    <string name="EggsAA">HuevosAA</string>
+    <string name="EggsAA_About">Los huevos son un alimento común en la dieta humana. Se presentan protegidos por una concha y son ricos en proteínas.</string>
+    <string name="EggsAAA">HuevosAAA</string>
+    <string name="EggsAAA_About">Los huevos son un alimento común en la dieta humana. Se presentan protegidos por una concha y son ricos en proteínas.</string>
+    <string name="Beef">Carne de res</string>
+    <string name="Beef_About">La carne de res, ternera, ternera o vacuno es la carne obtenida de la carne de vacuno, también denominada vacuno o bovina.</string>
+    <string name="Chicken">Pollo</string>
+    <string name="Chicken_About">La carne de pollo se llama tejido muscular y órganos de pollo. Es muy común encontrarlo en muchos platos.</string>
+
+    <string name="Others">Otros</string>
+</resources>

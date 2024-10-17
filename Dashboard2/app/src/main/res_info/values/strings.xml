@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Campesena">Campesena</string>
+    <string name="Campesena_Info">Es una estrategia del SENA para promover el reconocimiento de la labor del campesinado colombiano, fortalecer su economía y facilitar el acceso de esta población a los diferentes programas y servicios del SENA, con justicia social, ambiental y económica.</string>
+
+    <string name="Sennova">Sennova</string>
+    <string name="Sennova_info">Desde el área de SENNOVA del Centro de Biotecnología Agropecuaria, extendemos la invitación para participar en el Webinar  La Simulación: Una herramienta clave para el fortalecimiento de competencias laborales en Logística.</string>
+
+    <string name="inscripcion">Inscribete en el sena</string>
+    <string name="inscripción_info">El proceso de formación es GRATUITO. Debido al éxito de la convocatoria para la Oferta de Formación Presencial y a Distancia 2023, que comenzó el pasado 2 de marzo, el SENA anuncia que el plazo de inscripciones (que inicialmente iba a cerrarse el 9 de marzo) irá hasta el domingo 12 de marzo.</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Fruta_verdura1
+    <string name="Manzana">Manzana</string>
+    <string name="Manzana_Kazajistán">Kazajistán</string>
+    <string name="Manzana_Descripción">La manzana está compuesta por 85% de agua, y la mayor parte de sus azúcares deriva de la fructosa -aunque, en menor cantidad, tiene glucosa y sacarosa-.</string>
+    //Fruta_verdura2
+    <string name="Mora_Azul">Mora Azul</string>
+    <string name="Mora_Azul_USA">USA</string>
+    <string name="Mora_Azul_Descripción">La mora se considera por algunos como “milagrosa”, pues posee otros antioxidantes conocidos como la antocianina y pterostilbene.</string>
+    //Fruta_verdura3
+    <string name="Naranja">Naranja</string>
+    <string name="Naranaja_indonesia">Indonesia</string>
+    <string name="Naranja_Descripción">La naranja es una fruta cítrica obtenida del naranjo dulce, del naranjo amargo y de naranjos de otras variedades o híbridos</string>
+    //Fruta_verdura4
+    <string name="Banano">Banano</string>
+    <string name="Banano_indomalaya">Indomalaya</string>
+    <string name="Banano_Descripción">Contribuye a promover la buena circulación de la sangre. Actúa como protector de las úlceras del estómago y de la mucosa intestinal.</string>
+    //Fruta_verdura5
+    <string name="Pera">Pera</string>
+    <string name="Pera_Armenia">Armenia</string>
+    <string name="Pera_Descripcion">Las peras son ricas en sales minerales y en vitaminas C y A. La vitamina A es necesaria para el buen funcionamiento de la vista.</string>
+    //Fruta_verdura6
+    <string name="Remolacha">Remolacha</string>
+    <string name="Remolacha_Nueva_Guinea">Nueva Guinea</string>
+    <string name="Remolacha_Descripción">La remolacha contiene una gran concentración de antioxidantes responsables por combatir la inflamación en el organismo.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="New01">More than 15,000 actors from the cocoa chain, trained at SENA"s Latin American Chocolate School in Santander</string>
+    <string name="New02">The National Learning Service (SENA) reaffirms its commitment to Buenaventura and the construction of Total Peace in the municipality</string>
+    <string name="New03">Overflowing talent!: Nariño children triumph in science competition</string>
+    <string name="New04">SENA Caldas Metrology Laboratory strengthens its offer in calibration services</string>
+
+    //Pages
+    <string name="New01_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6601</string>
+    <string name="New02_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6602</string>
+    <string name="New03_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6593</string>
+    <string name="New04_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6595</string>
+</resources>

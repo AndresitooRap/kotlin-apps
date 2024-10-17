@@ -1,0 +1,25 @@
+<resources>
+    //Start
+    <string name="Start1">CALIDAD EDUCATIVA</string>
+    <string name="StartBody1">El SENA es una institución educativa reconocida en muchos países, y sus programas de formación en el sector alimentario suelen ser muy completos y especializados. Los estudiantes reciben una educación de calidad que cubre aspectos tanto teóricos como prácticos relacionados con la producción de alimentos.</string>
+    <string name="Start2">LA INNOVACIÓN Y LA CREATIVIDAD</string>
+    <string name="StartBody2">Los estudiantes del SENA suelen tener la oportunidad de desarrollar habilidades innovadoras y creativas durante su formación. Esto puede conducir a la creación de productos alimenticios únicos y originales, que ofrezcan opciones diferentes y atractivas en el mercado.</string>
+    <string name="Start3">PRECIOS ACCESIBLES</string>
+    <string name="StartBody3">Los productos elaborados por los estudiantes del SENA suelen tener precios competitivos y accesibles. Esto se debe en parte a que, como parte de su formación, los estudiantes pueden ofrecer sus productos a precios inferiores a los establecidos en el mercado comercial tradicional. Esto puede ser beneficioso tanto para los consumidores como para los propios estudiantes, ya que les permite ganar experiencia y promover sus habilidades.</string>
+    <string name="Start4">FORMULARIO DE EMPRENDIMIENTO</string>
+    <string name="StartBody4">El SENA tiene un enfoque en el desarrollo de habilidades emprendedoras en sus estudiantes. Esto significa que los productos alimenticios elaborados por los estudiantes pueden verse como el inicio de un camino hacia la creación de sus propias empresas en el futuro. Al apoyar y comprar estos productos, está apoyando el espíritu emprendedor de los estudiantes y su desarrollo profesional.</string>
+
+    <string name="Our_Recommendations">Nuestras recomendaciones</string>
+    <string name="AGRICULTURAL_BIOTECHNOLOGY_CENTER_SENA">CENTRO DE BIOTECNOLOGÍA AGRÍCOLA - SENA ©</string>
+    <string name="Phone">Teléfono: </string>
+    <string name="Attention_schedule">Atención al cliente: </string>
+    <string name="Monday_Saturday">Lunes a Viernes de 7:00 am a 5:00 pm (Día continuo) (No tenemos servicio los sábados)</string>
+
+    //SocialMedia
+    <string name="Facebook">https://www.facebook.com/SENAMosqueraOficial/</string>
+    <string name="Instagram">https://www.instagram.com/senacomunica/?hl=es-la</string>
+    <string name="TikTok">https://www.tiktok.com/@senacomunica_</string>
+    <string name="Twitter">https://twitter.com/SENAComunica</string>
+    <string name="Youtube">https://www.youtube.com/@SENAComunica</string>
+
+</resources>

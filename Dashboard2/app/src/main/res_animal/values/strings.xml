@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //animal1
+    <string name="Huevo_gallina">Huevo Gallina</string>
+    <string name="Huevo_gallina_Origen">Gallina Feliz</string>
+    <string name="Huevo_gallina_descripción">el huevo es una excelente fuente de vitaminas y minerales. Dos huevos permiten cubrir más del 15% de las IR de vitamina A, E, B2, niacina, hierro, zinc y selenio.</string>
+    //animal2
+    <string name="Huevo_codorniz">Huevo Codorniz</string>
+    <string name="Huevo_codorniz_Origen">Codorniz</string>
+    <string name="Huevo_codorniz_descripción">No generan alteraciones nocivas sobre el perfil lipídico y ayudan a cubrir los requerimientos diarios de hierro, selenio y zinc.</string>
+
+</resources>

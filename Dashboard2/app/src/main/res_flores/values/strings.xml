@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Flor1
+    <string name="Astromelias">Astromelias</string>
+    <string name="Astromelias_Perú">Perú</string>
+    <string name="Astromelia_Descripción">La Astromelia simboliza la amistad duradera, y cada uno de sus seis pétalos representan una faceta muy importante de la amistad.</string>
+    //Flor2
+    <string name="Girasol">Girasol</string>
+    <string name="Girasol_Usa_México">USA/México</string>
+    <string name="Girasol_Descripción">Los girasoles son reconocidos como el símbolo del sol y simbolizan el amor y la admiración.</string>
+    //Flor3
+    <string name="Orquidea">Orquídea</string>
+    <string name="Orquidea_Colombia">Colombia</string>
+    <string name="Orquidea_Descripción">Representan la belleza y la perfección pero, también, el amor entendido de maneras muy distintas.</string>
+    //Flor4
+    <string name="Rosa">Rosa</string>
+    <string name="Rosa_China">China</string>
+    <string name="Rosa_Descripcion">Flor del rosal, notable por su belleza, la suavidad de su fragancia y su color.</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SenaExpress</string>
+    //Notification
+    <string name="CanalTienda">CanalTienda</string>
+    <string name="Canal_de_Notificaciones_Tienda_CBA">Canal de Notificaciones Tienda CBA</string>
+    <string name="Home">Inicio</string>
+    <string name="Category">Categoria</string>
+    <string name="News">Noticias</string>
+    <string name="Location">Ubicación</string>
+    <string name="Welcome">¡Bienvenido!</string>
+    <string name="Next_to">Seguir</string>
+    <string name="Sign_in">Iniciar Sesión</string>
+    <string name="Sign_up">Registrarse</string>
+    <string name="Dont_have_account">¿No tienes cuenta?, </string>
+    <string name="You_ve_account">¿Ya tienes cuenta?, </string>
+    <string name="Register_Free">¡Registrate gratis!</string>
+    <string name="Log_In">Inicia Sesión</string>
+    <string name="Create_Account">Crear cuenta</string>
+    <string name="Tienda_Sena_CBA">Tienda Sena CBA</string>
+
+</resources>

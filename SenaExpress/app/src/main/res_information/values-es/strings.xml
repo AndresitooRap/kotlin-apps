@@ -1,0 +1,12 @@
+<resources>
+    <string name="New01">Más de 15.000 actores de la cadena del cacao, capacitados en Escuela Latinoamericana de Chocolate del SENA en Santander</string>
+    <string name="New02">El Servicio Nacional de Aprendizaje (SENA) reafirma su compromiso con Buenaventura y la construcción de Paz Total en el municipio</string>
+    <string name="New03">¡Talento desbordante!: Niños de Nariño triunfan en concurso de ciencias</string>
+    <string name="New04">Laboratorio de Metrología del SENA Caldas fortalece su oferta en servicios de calibración</string>
+
+    //Pages
+    <string name="New01_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6601</string>
+    <string name="New02_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6602</string>
+    <string name="New03_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6593</string>
+    <string name="New04_Link">https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6595</string>
+</resources>

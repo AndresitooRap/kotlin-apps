@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.Basics_Sena" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

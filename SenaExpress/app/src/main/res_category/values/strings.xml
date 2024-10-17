@@ -1,0 +1,68 @@
+<resources>
+    //dairy
+    <string name="Dairy">Dairy</string>
+    <string name="Milk">Milk</string>
+    <string name="Milk_About">Milk is a whitish nutritive secretion produced by the secretory cells of the mammary glands of mammals.</string>
+    <string name="Cheese_About">Cheese is a solid food that is obtained by maturing the curd of animal milk once the whey has been removed.</string>
+    <string name="Cheese">Cheese</string>
+    <string name="Yogurt_Griego_About">Yogurt, also known as yogurt, yoghourt, yogourt, yoghurt, yogurth, is a dairy product obtained by fermentation.</string>
+    <string name="Yogurt_Griego">Yogurt Griego</string>
+    <string name="Kummis_About">Kumis is a fermented dairy product, alcoholic acid.</string>
+    <string name="Kummis">Kummis</string>
+    <string name="Yogurt_About">Yogurt, also known as yoghurt, yoghourt, yogourt, yoghurt, yoghurt​, is a dairy product obtained by fermentation.</string>
+    <string name="Yogurt">Yogurt</string>
+
+    //Vegetables
+    <string name="Vegetables">Vegetables</string>
+    <string name="Carrots">Carrots</string>
+    <string name="Carrots_About">Daucus carota sativus, popularly called carrot, is the domesticated form of the wild carrot.</string>
+    <string name="Onion">Onion</string>
+    <string name="Onion_About">Allium cepa, commonly known as onion, is a biennial herbaceous plant belonging to the Amaryllidaceae family.</string>
+    <string name="Garlic">Garlic</string>
+    <string name="Garlic_About">Garlic has among its natural medicinal properties the peculiarity of fighting respiratory infections.</string>
+    <string name="Lettuce">Lettuce</string>
+    <string name="Lettuce_About">Lettuce is an annual plant of the Asteraceae family. It is cultivated mainly as a leafy vegetable.</string>
+    <string name="Bean">Bean</string>
+    <string name="Bean_About">Kidney beans are a rich source of vitamin C, vitamin K, vitamin A (they contain beta-carotene) and riboflavin (vitamin B2).</string>
+
+    //Fruits
+    <string name="Fruits">Fruits</string>
+    <string name="Strawberry">Strawberry</string>
+    <string name="Strawberry_About">The strawberry or strawberry is a genus of stoloniferous creeping plants of the Rosaceae family. It groups about 400 described taxa.</string>
+    <string name="Blackberry">Blackberry</string>
+    <string name="Blackberry_About">Botanically, the blackberry is a polydrupe fruit, that is, it is made up of small drupes arranged in a cluster.</string>
+    <string name="Tangerine">Tangerine</string>
+    <string name="Tangerine_About">The tangerine is the fruit of the different species of citrus commonly called mandarin, including Citrus reticulata.</string>
+    <string name="Apple">Apple</string>
+    <string name="Apple_About">The apple or poma is the edible fruit of the species Malus domestica, the common apple tree.</string>
+    <string name="Banana">Banana</string>
+    <string name="Banana_About">The banana, also known as banana, plantain, ripe banana, guineo, cambur or gualele, is an edible fruit of various types.</string>
+
+    //Flowers
+    <string name="Flowers">Flowers</string>
+    <string name="Astromelia">Astromelia</string>
+    <string name="Astromelia_About">Astromelia, generally called "astromelia", is a genus from South America with around 120 species.</string>
+    <string name="Orchids">Orchids</string>
+    <string name="Orchids_About">Orchids or orchids are a family of monocotyledonous plants that are distinguished by the complexity of their flowers.</string>
+    <string name="Tulipa">Tulipa</string>
+    <string name="Tulipa_About">Tulipa is a genus of perennial and bulbous plants belonging to the Liliaceae family, which includes the popular tulips.</string>
+    <string name="Cattleya">Cattleya</string>
+    <string name="Cattleya_About">The May flower or May lily (Cattleya trianae) belongs to the orchid family, native to Colombia.</string>
+    <string name="Sunflower">Sunflower</string>
+    <string name="Sunflower_About">Helianthus annuus, also commonly called sunflower, is an annual herbaceous plant of the Asteraceae.</string>
+
+    //Animals
+    <string name="Animals">Animals</string>
+    <string name="EggsA">EggsA</string>
+    <string name="EggsA_About">Eggs are a common food in the human diet. They are presented protected by a shell and are rich in protein.</string>
+    <string name="EggsAA">EggsAA</string>
+    <string name="EggsAA_About">Eggs are a common food in the human diet. They are presented protected by a shell and are rich in protein.</string>
+    <string name="EggsAAA">EggsAAA</string>
+    <string name="EggsAAA_About">Eggs are a common food in the human diet. They are presented protected by a shell and are rich in protein.</string>
+    <string name="Beef">Beef</string>
+    <string name="Beef_About">Beef, beef, beef or beef is meat obtained from beef, also called cattle or bovine.</string>
+   <string name="Chicken">Chicken</string>
+    <string name="Chicken_About">Chicken meat is called muscle tissue and organs from chicken. It is very common to find it in many dishes.</string>
+
+    <string name="Others">Others</string>
+</resources>

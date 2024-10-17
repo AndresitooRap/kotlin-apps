@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="CanalTienda">CanalTienda</string>
+    <string name="Canal_de_Notificaciones_Tienda_CBA">Canal de Notificaciones Tienda CBA</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="Como_puedo_comprar">¿Cómo puedo comprar?</string>
+    <string name="Respuesta1">Para poder comprar, es necesario acercarse a nuestra distriubuidora SENA en Km 7 en via Mosquera Bogotá</string>
+    <string name="Son_Naturales">¿Son Naturales?</string>
+    <string name="Respuesta2">Los productos son 100% orgánicos hechos por los aprendices</string>
+    <string name="Cómo_pesan">¿Cómo pesan?</string>
+    <string name="Respuesta3">Nuestros metodos de pesajés es en Kilogramos, Gramos, Libras, Litro, Mililitros y por Unidad</string>
+    <string name="Precio">Metodos de pago</string>
+    <string name="Respuesta4">Los metodos de pago de nuestra distribuidora es solo en efectivo</string>
+    <string name="Huevos">Acerca de los huevos</string>
+    <string name="Respuesta5">Acerca de los huevos, nuestra distribuidora tiene limitada la venta de este producto debido a la alta demanda de este y la poca producción de esta, actualmente nos encontramos en fuera de servicio de este producto</string>
+    <string name="Flores">Acerca de las Flores</string>
+    <string name="Respuesta6">Acerca de las Flores, estas son de compra al por mayor, es decir, se vende por cada kilo de ramo que lleves</string>
+    <string name="Lacteos">Acerca de Lacteos</string>
+    <string name="Respuesta7">Acerca de los Lacteos, estos productos vienen refrigerados los que requieren y en ambiente templado para los que requieran, por los que son los más rentables a la hora de comprar debido a su larga fecha para expirar</string>
+
+</resources>

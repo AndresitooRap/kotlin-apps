@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BasicLayoutCodelab</string>
+    <string name="categories">Categories</string>
+    <string name="ct1_dairy">Dairy</string>
+    <string name="ct2_vegetables">Vegetables</string>
+    <string name="ct3_fruits">Fruits</string>
+    <string name="ct4_animals">Animals</string>
+    <string name="ct5_flower">Flowers</string>
+
+    <string name="pcd1_milk">Milk</string>
+    <string name="pcd2_cheese">Cheese</string>
+    <string name="pcd3_yogurt">Yogurt</string>
+    <string name="pcd4_cuajada">Cuajada</string>
+    <string name="pcd5_butter">Butter</string>
+
+    <string name="pcv1_onion">Onion</string>
+    <string name="pcv2_tomato">Tomato</string>
+    <string name="pcv3_lettuce">Lettuce</string>
+    <string name="pcv4_carrot">Carrot</string>
+    <string name="pcv5_bean">Bean</string>
+
+    <string name="pcf1_apple">Apple</string>
+    <string name="pcf2_orange">Orange</string>
+    <string name="pcf3_Pear">Pear</string>
+    <string name="pcf4_Blackberry">Blackberry</string>
+    <string name="pcf5_Strawberry">Strawberry</string>
+
+    <string name="pca1_cow_meat">Cow Meat</string>
+    <string name="pca2_eggsA">Eggs A</string>
+    <string name="pca3_honey">Honey</string>
+    <string name="pca4_chicken">Chicken</string>
+    <string name="pca5_eggsAA">Eggs AA</string>
+
+    <string name="pcfl1_astromelia">Astromelias</string>
+    <string name="pcfl2_roses">Roses</string>
+    <string name="pcfl3_carnations">Carnations</string>
+    <string name="pcfl4_sunflower">Sunflower</string>
+    <string name="pcfl5_chirosas">Chirosas</string>
+
+
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+    <string name="placeholder_search">Write</string>
+</resources>
